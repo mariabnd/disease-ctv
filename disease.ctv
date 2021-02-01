@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CRANTaskView>
+
+  <name>Disease</name>
+  <topic>Disease</topic>
+  <maintainer>mariabnd</maintainer>
+  <version>2020-02-01</version>
+
+  <info>
+    <p>
+      This Task View contains a list of packages useful for analysis of disease data. The name is chosen such that it covers both infectious disease epidemiology and disease ecology. NB this is not an official <a href="https://cran.r-project.org/web/views">CRAN Task View</a> so the link above will not work.
+    </p>
+
+    <p>
+      If you would like to suggest additions to this list, please create a <a href="https://github.com/mariabnd/disease-ctv/pulls">GitHub pull request</a> noting the package(s) you'd like to suggest for inclusion with a short description of the features provided as well as a link to the package
+    </p>
+  </info>
+
+  <packagelist>
+    <pkg>surveillance</pkg>
+    <pkg>repijson</pkg>
+    <pkg>outbreaks</pkg>
+    <pkg>outbreaker</pkg>
+    <pkg>outbreaker2</pkg>
+    <pkg>sitrep</pkg>
+    <pkg>reconhub</pkg>
+    <pkg>incidence</pkg>
+    <pkg>epicontacts</pkg>
+    <pkg>EpiEstim</pkg>
+    <pkg>socialmixr</pkg>
+    <pkg>epimixr</pkg>
+    <pkg>inctools</pkg>
+    <pkg>PHEindicatormethod</pkg>
+    <pkg>cdcfluview</pkg>
+    <pkg>cholera</pkg>
+    <pkg>getTBinR</pkg>
+    <pkg>SimInf</pkg>
+    <pkg>DSAIDE</pkg>
+    <pkg>EpiModel</pkg>
+    <pkg>EpiSignalDetection</pkg>
+    <pkg>Epiphy</pkg>
+    <pkg>EpiReport</pkg>
+    <pkg>DClusterm</pkg>
+    <pkg>Idmodelr</pkg>
+    <pkg>IDSpatialStats</pkg>
+  </packagelist>
+
+  <links>
+    <a href="https://github.com/mariabnd/disease-ctv">GitHub repository</a>
+  </links>
+
+</CRANTaskView>
+
+
